@@ -23,6 +23,7 @@ main img {
 .severalimages {
   display: flex;
   flex-direction: row;
+  align-items: center;
 }
 
 .severalimages img {
